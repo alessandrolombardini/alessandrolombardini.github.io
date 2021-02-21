@@ -9,7 +9,7 @@ permalink: /posts/
 <div class="">
     {% for post in site.posts %}
     <article class="">
-        {% if post.categories contains "Biography" %}
+        {% if post.categories contains "biography" %}
             <ul>
                 <li><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ post.title }}</a></li>
             </ul>    
