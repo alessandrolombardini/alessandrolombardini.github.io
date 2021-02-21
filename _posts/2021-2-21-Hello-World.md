@@ -4,9 +4,10 @@ title: Who am I? An AI lover.
 excerpt: Hi everyone, my name is Alessandro Lombardini, I am an AI lover who wants to share his knowledge and his passion for Artificial Intelligence with a community of people that maybe can find it useful and interesting.
 published: true
 categories: biography
+image: /images/who-am-i.jpeg
 ---
 
-![who-am-i.jpeg]({{site.baseurl}}/images/who-am-i.jpeg)
+![]({{ post.image | relative_url }})
 
 Hi everyone, my name is Alessandro Lombardini, I am an AI lover who wants to share his knowledge and his passion for Artificial Intelligence with a community of people that maybe can find it useful and interesting. I am nobody to talk about it: I don’t have any work experience and any degree in AI; anyway I’m very interested in the argument and I feel the urge to give my contribution to the sector, even if it is tiny.
 
