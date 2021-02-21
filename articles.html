@@ -12,7 +12,7 @@ permalink: /articles/
         {% if post.categories contains "biography" %}
             <ul>
                 <li>
-                    <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image"/>
+                    <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image"></img>
                     <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ post.title }}</a>
                 </li>
             </ul>    
