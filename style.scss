@@ -295,4 +295,8 @@ footer {
   object-fit: cover;
   float: left;
   margin-right: 3%;
+
+  @include mobile {
+    width: 100%;
+  }
 }
