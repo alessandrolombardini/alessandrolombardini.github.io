@@ -4,9 +4,9 @@ title: Who am I? An AI lover.
 published: true
 ---
 
-![who-am-i.jpeg]({{site.baseurl}}/images/who-am-i.jpeg)
-
 Hi everyone, my name is Alessandro Lombardini, I am an AI lover who wants to share his knowledge and his passion for Artificial Intelligence with a community of people that maybe can find it useful and interesting. I am nobody to talk about it: I don’t have any work experience and any degree in AI; anyway I’m very interested in the argument and I feel the urge to give my contribution to the sector, even if it is tiny.
+
+![who-am-i.jpeg]({{site.baseurl}}/images/who-am-i.jpeg)
 
 Before starting to talk, I think it’s appropriate to tell something about myself. I’m Italian, I have 22 years and in October of the past year, I graduated in Computer Science and Engineering, at the University of Bologna. For this year I will not be a student, but I’m evaluating which university attend the next year: a master's degree very focused on AI and Data Science fields it’s the most likely choice.
 
