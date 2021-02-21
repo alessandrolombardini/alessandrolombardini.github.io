@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who am I? An AI lover.
-excerpt: CIAO
+excerpt: Hi everyone, my name is Alessandro Lombardini, I am an AI lover who wants to share his knowledge and his passion for Artificial Intelligence with a community of people that maybe can find it useful and interesting.
 published: true
 ---
 
