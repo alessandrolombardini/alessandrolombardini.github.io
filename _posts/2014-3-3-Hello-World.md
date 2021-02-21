@@ -10,7 +10,7 @@ Hi everyone, my name is Alessandro Lombardini, I am an AI lover who wants to sha
 
 Before starting to talk, I think it’s appropriate to tell something about myself. I’m Italian, I have 22 years and in October of the past year, I graduated in Computer Science and Engineering, at the University of Bologna. For this year I will not be a student, but I’m evaluating which university attend the next year: a master's degree very focused on AI and Data Science fields it’s the most likely choice.
 
-## Why am I writing?
+### Why am I writing?
 
 Why I am writing this text? Well, for different reasons.
 
@@ -20,11 +20,11 @@ Secondly, I think a blog is a good opportunity to get in touch with a lot of peo
 
 These are the reasons. Not very poetic, but much pragmatic.
 
-## What will I write about?
+### What will I write about?
 
 I think I will write mainly about AI, but everything I find interesting can be a perfect subject for an article. Some experience that can be useful for another one can also be a perfect argument to talk about: so many times I didn’t find the answer I was looking for; let the people know how I reach them and what I discovered I think it can be very helpful.
 
-## What am I doing now?
+### What am I doing now?
 
 Today I’m working as an R&D Researcher in a company called Maggioli, in Italy. My purpose is to do research about solutions of Artificial Intelligence that can be used to offer new services to customers.
 
