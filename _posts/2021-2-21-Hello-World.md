@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Who am I? An AI lover.
+excerpt: CIAO
 published: true
 ---
 
