@@ -1,0 +1,19 @@
+---
+layout: page
+title: Articles
+permalink: /resume/
+---
+
+<h3>Biography</h2>
+
+<div class="posts">
+    {% for post in site.posts %}
+    <article class="">
+        {% if post.categories contains "Biography" %}
+            <ul>
+                <li><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ post.title }}</a></li>
+            </ul>    
+        {% endif %}
+    </article>
+    {% endfor %}
+</div>
