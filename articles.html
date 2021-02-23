@@ -7,17 +7,16 @@ permalink: /articles/
 <h3>Biography</h2>
 
 <div class="">
-    {% for post in site.posts %}
     <article class="">
-        {% if post.categories contains "biography" %}
-            <ul>
-                <li>
-                    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ post.title }}</a>
-                </li>
-            </ul>    
-        {% endif %}
+        <ul>
+            {% for post in site.posts %}
+            {% if post.categories contains "biography" %}
+                <li><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ post.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+            <li><a href="https://alessandro-lombardini.medium.com/who-am-i-an-ai-lover-f9e0870aaba1" class="read-more">Summary of Question Answering task</a></li>
+        </ul>    
     </article>
-    {% endfor %}
 </div>
 
 
