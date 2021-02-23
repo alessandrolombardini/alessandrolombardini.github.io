@@ -13,4 +13,4 @@ I also have a weakness in the humanities, which is perhaps the reason why I am v
 
 ### Contact me
 
-Feel free to contact me by [email](mailto:alessandro.lombardini@outlook.it) or on [linkedin](https://www.linkedin.com/in/alessandro-lombardini-4a894a158/) ☺.
+Feel free to contact me by [email](mailto:alessandro.lombardini@outlook.it) or [linkedin](https://www.linkedin.com/in/alessandro-lombardini-4a894a158/) ☺.
